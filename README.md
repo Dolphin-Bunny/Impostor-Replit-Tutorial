@@ -4,7 +4,7 @@
 A few scripts to automatically download the source for the [Impostor](https://github.com/Impostor/Impostor) custom Among Us server
 (I did not make the server, just the scripts to run it on repl.it)
 
-### If you don't want to use the `dev` branch of the server (currently no plugin support), you should use [this tutorial](https://github.com/Dolphin-Bunny/imposter-replit-basic)
+### If you don't want to use the `dev` branch of the server (currently the only branch with plugin support), you should use [this tutorial](https://github.com/Dolphin-Bunny/imposter-replit-basic)
 
 ## You will need:
 1. An account on [repl.it](https://repl.it/)
