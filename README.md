@@ -55,7 +55,7 @@ Your repls ip address is:
 
 #### Joining the server
 12. The ip address of the server is below the `Your repls ip address is:` line
-13. The port of the server is `22023` unless you changed it (citation needed)
+13. The port of the server is `22023` unless you changed it
 14. The [Impostor Github repo](https://github.com/Impostor/Impostor)  has instructions for how to join the server
 
 #### Plugins and config.json
