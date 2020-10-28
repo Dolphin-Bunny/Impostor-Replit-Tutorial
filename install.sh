@@ -1,6 +1,12 @@
 
-  _PATH = $(pwd)
+  cwd=$(pwd)
   mkdir plugins
+  
+  cd ~
+  cd $cwd
+
+  #exit 2# stop the script early
+
   echo =========================
   echo     Installing things
   echo =========================
@@ -18,6 +24,10 @@
   unzip -o dev.zip
   cd ~/impostor_src/Impostor-dev/src/Impostor.Server
   dotnet publish --runtime linux-x64
+
+  cd $cwd
+  cp -n ~/impostor_src/Impostor-dev/src/Impostor.Server/bin/Debug/net5.0/linux-x64/config.json config.json
+
   echo =========================
   echo           Done!
   echo =========================
