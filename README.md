@@ -20,12 +20,12 @@ A few scripts to automatically download the source for the [Impostor](https://gi
 8. On line 1 of `main.sh`, replace `<Your Repls Name>` with the name of the repl you will host the server on BUT WITH SPACES REPLACED WITH DASHES ( `-` ), and `<Your Repl.it Username>` with your username on repl.it. 
   a. So for me, line 1 would be `getent hosts impostor-building-from-source.dolphinbunny.repl.co | awk '{ print $1 }'`
 9. Type `sh install.sh` into the console on the right and press enter. This may take a few minutes. You should not need to do anything while it installs. When it is finished, it will say "Done!" at the bottom of the console
-    a. This will install several things onto your repl that are needed to use the `dev` branch of the server (the branch that supports plugins and has more features)
-        - This will:
-          - Install .NET SDK 5.0 on your repl
-          - Builds the impostor server 
-    b. You should do this each time you visit/reload the repl.it page
-    c. The script might be at 
+  * This will install several things onto your repl that are needed to use the `dev` branch of the server (the branch that supports plugins and has more features)
+    - This will:
+      - Install .NET SDK 5.0 on your repl
+      - Build the impostor server 
+  * You should do this each time you visit/reload the repl.it page
+  * The script might be at 
     ```
     Microsoft (R) Build Engine version 16.8.0-preview-20475-05+aed5e7ed0 for .NET
     Copyright (C) Microsoft Corporation. All rights reserved.
