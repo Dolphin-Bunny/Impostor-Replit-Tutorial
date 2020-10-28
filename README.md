@@ -15,8 +15,8 @@ A few scripts to automatically download the source for the [Impostor](https://gi
 2. Go to the "My Repls" page
 3. Click "New Repl" in the top left
 4. Click Import From Github
-5. Paste `URL OF REPO` into the repository url box
-    a. You do not need to link your Github account
+5. Paste `https://github.com/Dolphin-Bunny/Impostor-Replit-Tutorial` into the repository url box
+  a. You do not need to link your Github account
 6. Click the blue "Import From Github" button
 #### part 2: Setting up your repl
 8. On line 1 of `main.sh`, replace `<Your Repls Name>` with the name of the repl you will host the server on BUT WITH SPACES REPLACED WITH DASHES ( `-` ), and `<Your Repl.it Username>` with your username on repl.it. 
