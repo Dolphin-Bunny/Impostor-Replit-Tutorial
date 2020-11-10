@@ -1,4 +1,5 @@
 (I don't think you can join the server from mobile)
+*If this does not work for you, issues and pull requests are always welcome*
 
 # Impostor build from source
 A few scripts to automatically download the source for the [Impostor](https://github.com/Impostor/Impostor) custom Among Us server
