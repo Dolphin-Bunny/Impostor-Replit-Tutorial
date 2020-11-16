@@ -1,5 +1,7 @@
 (I don't think you can join the server from mobile)
 
+## this may not work, I was not able to play on it, I'll update the instructions if I can get it to work.
+
 *If this does not work for you, issues and pull requests are always welcome*
 
 # Impostor build from source
