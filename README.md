@@ -1,6 +1,6 @@
 (I don't think you can join the server from mobile)
 
-## WARNING: this may not work, I was not able to play on it, I'll update the instructions if I can get it to work.
+## WARNING: this may not work, I was not able to play on it, I'll update the instructions if I can get it to work. The server seems to be running fine, but it will not let me create a game. The same thing happens when I try to run it from a VM on my computer, so IDK what is wrong with it (If you do end up being able to play on it, I'd love to know how)
 
 *If this does not work for you, issues and pull requests are always welcome*
 
